@@ -1,7 +1,7 @@
 numbers = [1,2,3]
 
 def square_array(array)
-  array.each {|digit| digit ** 2}
+  array.each {|n| n ** 2}
 end
 end
 
